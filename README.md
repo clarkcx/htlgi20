@@ -1,5 +1,10 @@
 # How The Light Gets In
 My personal schedule for How The Light Gets In
+
+- [Friday](https://github.com/clarkcx/htlgi20#friday)
+- [Saturday](https://github.com/clarkcx/htlgi20#saturday)
+- [Sunday](https://github.com/clarkcx/htlgi20#sunday)
+
 ## Friday
 ### 17:30 — [John Ellis: Exploring the Dark Side of Physics](https://howthelightgetsin.org/events/john-ellis-exploring-the-dark-side-of-physics-2002)
 
