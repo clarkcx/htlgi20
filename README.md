@@ -4,6 +4,7 @@ My personal schedule for How The Light Gets In
 - [Friday](https://github.com/clarkcx/htlgi20#friday)
 - [Saturday](https://github.com/clarkcx/htlgi20#saturday)
 - [Sunday](https://github.com/clarkcx/htlgi20#sunday)
+- [Monday](https://github.com/clarkcx/htlgi20#monday)
 
 ## Friday
 ### 17:30 — [John Ellis: Exploring the Dark Side of Physics](https://howthelightgetsin.org/events/john-ellis-exploring-the-dark-side-of-physics-2002)
@@ -131,3 +132,40 @@ For a century most Western governments have banned recreational drugs other than
 
 Imperial College psychiatrist and former government drugs adviser David Nutt, philosopher of mind Peter Sjostedt-H, and director of leading addiction and recovery charity Annemarie Ward get to the bottom of getting high.
 
+## Monday
+
+### 11:00 — [Bernardo Kastrup: The case for Idealism](https://howthelightgetsin.org/events/bernardo-kastrup-the-case-for-idealism-2111)
+
+The idea that reality exists outside and independently of the mind seems so obvious as to be indisputable. But is it possible we've all got it completely wrong? Join philosopher, scientist and author of The Idea of the World Bernardo Kastrup as he argues that reality is fundamentally mental.
+
+### 11:00 — [Bernardo Kastrup: The case for Idealism](https://howthelightgetsin.org/events/bernardo-kastrup-the-case-for-idealism-2111)
+
+The idea that reality exists outside and independently of the mind seems so obvious as to be indisputable. But is it possible we've all got it completely wrong? Join philosopher, scientist and author of The Idea of the World Bernardo Kastrup as he argues that reality is fundamentally mental.
+
+### 13:00 — [Debate: Beyond material](https://howthelightgetsin.org/events/beyond-material-2115)
+
+**Peter Atkins, Nancy Cartwright, Bernardo Kastrup. Barry C Smith hosts.**
+
+The world is only material, only physical stuff - has for a century been the dominant view. Yet science has seemingly eradicated the physical in favour of fields and energy, mathematics and information. More radically quantum physics makes material reality itself unreachable. Meanwhile the intractable problem of how to generate consciousness from material alone is no closer to being solved. Should we as a result embrace the immaterial, as a welcome end to the reductive dogmas of materialist philosophy? Offering an exciting future with the potential for other forms of being and understanding? Or is the immaterial, however understood, necessarily innaccessible, and of no value to our theories and our actions?
+
+Philosopher of science Nancy Cartwright, renowned Oxford Chemist Peter Atkins, and metaphysical idealist Bernardo Kastrup investigate what the world's made of.
+
+### 13:00 — [Debate: The Matrix or the miracle](https://howthelightgetsin.org/events/the-matrix-or-the-miracle-2116)
+
+**Theodore Dalrymple, David Pearce, Güneş Taylor. Stephanie Hare hosts.**
+
+Babies need mothers - or so we have always imagined. Yet two scientific breakthroughs in the last couple of years call this fundamental assumption into question. Using only skin cells as their starting point, in 2017 researchers in Japan grew egg cells in the lab, while in the Netherlands scientists claim they are within a decade of creating an artificial womb. Does this technology make babies in the lab a credible outcome, and motherhood and birth potentially unnecessary? Will this lead to a dystopian future, profoundly threatening family life and society as whole? Or should we welcome these new techniques as enabling infertile couples and gay men to have children, and women to avoid the risks and restrictions of pregnancy?
+
+Founder of Humanity+ David Pearce, Francis Crick Institute geneticist Güneş Taylor and cultural critic Theodore Dalrymple clash over genetics, technology and motherhood. 
+
+### 14:00 — [Jim Baggott: The madness of Quantum](https://howthelightgetsin.org/events/jim-baggott-the-madness-of-quantum-2117)
+
+Quantum mechanics is completely mad. It stuns us with particles that are waves and waves that are particles. Hear renowned quantum researcher Jim Baggott explain why he still doesn't understand this crazy but integral theory.
+
+### 17:00 — [Debate: The black hole paradox](https://howthelightgetsin.org/events/the-black-hole-paradox-2112)
+
+**Sean Carroll, Amelie Saintonge. Anil Ananthaswamy hosts.**
+
+Astronomers last year claimed to have achieved what was thought impossible, and captured an image of a black hole, seemingly proving the existence of these mysterious objects. Yet not everyone is convinced.  Black holes are so described because they were proposed as a space from which nothing can escape. At the heart of the black hole physics seemed to come to an end, its laws in tatters. Stephen Hawking, having been the first to propose black holes, at the end of his life came to argue that they did not exist - at least in the sense in which they were first described.  
+
+Is the idea of a black hole from which nothing can escape a mistake? If so, how can we resolve the paradox that they were predicted by a combination of relativity and quantum mechanics? Or should we hold onto the idea of black holes, however mysterious and problematic they are? 
