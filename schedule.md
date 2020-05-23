@@ -24,7 +24,7 @@ Breaking The Taboo uncovers the UN-sanctioned war on drugs. With exclusive acces
 From Trump to Kim Jong Un, from Putin to Bashar Al-Assad, from the far right to the far left, everyone at least claims to be in favour of democracy. But in what form, and in whose interest? In the West democracy has meant electing others to decide for us. Now, many argue democracy is in trouble. Were we mistaken to imagine that democracy is necessarily progressive and delivers for the people? Could we harness new technologies like blockchain to enable a new, more direct form of democracy that gives everyone a voice? Or is the very idea of giving everyone a say an illusion that leaves us victim to those with power and influence? Democracy is supposed to give power to the people, but how can this be achieved?
 
 Former Brexit Party MEP Claire Fox, Academic Director of the Royal Institute of Philosophy Julian Baggini, and Former Chancellor John McDonnell clash over the future of democracy.
-### 23:00 — [DokBox: The Pendle With Child](https://howthelightgetsin.org/events/the-pendle-witch-child-2386)
+### 23:00 — [DokBox: The Pendle Witch Child](https://topdocumentaryfilms.com/pendle-witch-child/)
 
 Presented by Simon Armitage, this is an extraordinary story of the most disturbing witch trial in British history and the key role played in it by one nine-year-old girl. Jennet Device was the star witness in the trial of her own mother, her brother, her sister and many of her neighbours. Thanks to her chilling testimony, they were all hanged.
 
@@ -37,8 +37,6 @@ Presented by Simon Armitage, this is an extraordinary story of the most disturbi
 At the heart of our understanding of reality is physics, the cornerstone of science. But it appears to be in all sorts of trouble. For decades it has been predicted that we would find 'supersymmetry' - a set of parallel particles for all those we currently understand to exist. It was the solution to many inconsistencies and deep puzzles in our current theory. 10,000 scientists collaborated to build The Large Hadron Collider to find the evidence. But year has followed year and no evidence of the predicted supersymmetric particles has been found. Is supersymmetry dead, and with it string theory, the theory of everything, and the life's work of many leading particle physicists? Is our underlying theory, the Standard Model, fundamentally mistaken? Must we conclude that the whole framework of contemporary physics might be wrong? And if so, where can we turn for an alternative?
 
 ### 11:30 — [Arc of Life: David Nutt](https://howthelightgetsin.org/events/arc-of-life-david-nutt-2126)
-
-**Jim Baggott, John Ellis, Sabine Hossenfelder. David Malone hosts.**
 
 **David Nutt.**
 
